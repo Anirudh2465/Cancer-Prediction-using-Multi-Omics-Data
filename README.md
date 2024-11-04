@@ -4,21 +4,21 @@ Predict cancer presence by harnessing the power of genomics, transcriptomics, an
 
 
 
-##**🚀 Project Overview**
+## **🚀 Project Overview**
 
 
 This project aims to enhance cancer detection by integrating multi-omics data (genomics, transcriptomics, and proteomics) with a Graph Attention Network (GAT) model. By extracting patterns from complex biological data, we seek to provide an efficient and accurate prediction of cancer likelihood, offering insights into pathways, gene variations, and protein expressions.
 
 
 
-##**🔍 Why This Project?**
+## **🔍 Why This Project?**
 
 
 Traditional diagnostic tools often analyze single omics layers, which can miss critical cross-data patterns. By utilizing multiple omics, this model captures intricate relationships between genes, transcripts, and proteins, resulting in a more comprehensive analysis that boosts detection accuracy.
 
 
 
-##**🧪 Methodology**
+## **🧪 Methodology**
 
 
 Data Preprocessing: Input genomics, transcriptomics, and proteomics data, normalized and transformed to enhance pattern extraction.
@@ -31,7 +31,7 @@ Attention Mechanisms: Identifies high-impact features, improving model focus on 
 
 
 
-##**📊 Data Types Utilized**
+## **📊 Data Types Utilized**
 
 
 Genomics: DNA sequence data to detect potential mutations.
@@ -42,7 +42,7 @@ Proteomics: Protein levels and modifications to analyze molecular pathways relat
 
 
 
-##**🔧 Tech Stack**
+## **🔧 Tech Stack**
 
 
 PyTorch: For neural network development.
@@ -53,7 +53,7 @@ scikit-learn & NumPy: For data preprocessing and model evaluation.
 
 
 
-##**📁 File Structure**
+## **📁 File Structure**
 
 
 data/: Contains multi-omics datasets.
@@ -66,7 +66,7 @@ src/: Core scripts for model building, training, and prediction.
 
 
 
-##**🎉 Results**
+## **🎉 Results**
 
 
 The model outputs a cancer probability score for each patient sample, enabling an interpretative diagnosis based on individual gene expression and protein levels.
