@@ -1,4 +1,4 @@
-*** #🧬 Multi-Omics Cancer Prediction Using Graph Attention Networks (GAT)***
+# ***🧬 Multi-Omics Cancer Prediction Using Graph Attention Networks (GAT)***
 
 Predict cancer presence by harnessing the power of genomics, transcriptomics, and proteomics data through cutting-edge deep learning techniques.
 
